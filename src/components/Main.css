@@ -1,0 +1,51 @@
+.background {
+  background-color: #8bcff5;
+  height: 100vh;
+}
+
+.head {
+  position: absolute;
+  width: 50%;
+  /* height: 20%; */
+  left: 25%;
+  top: 20%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 500%;
+  line-height: 200%;
+  text-align: center;
+}
+
+.student {
+  position: relative;
+  background-color: #1e54df;
+  left: 60%;
+  top: 60%;
+  height: 10%;
+  width: 20%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 250%;
+  line-height: 150%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.teacher{
+    position: relative;
+    background-color: #1e54df;
+    left: 20%;
+    top:47.5%;
+    height: 10%;
+    width: 20%;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 250%;
+    line-height: 150%;
+    text-align: center;
+    cursor: pointer;
+}

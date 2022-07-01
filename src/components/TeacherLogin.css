@@ -1,0 +1,116 @@
+.background {
+  background-color: #8bcff5;
+  height: 100vh;
+}
+
+.head{
+position: relative;
+width: 20%;
+height: 58px;
+left: 38.5%;
+top: 13%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 300%;
+line-height: 5%;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.box {
+  position: relative;
+  width: 32%;
+  height: 70%;
+  left: 33%;
+  top: 8%;
+
+  background: #ffffff;
+}
+
+.username {
+  position: relative;
+  width: 80%;
+  height: 10%;
+  left: 10%;
+  top: 15%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 250%;
+  line-height: 10%;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+
+  opacity: 0.6;
+
+  background: #d9d9d9;
+}
+
+.password {
+  position: relative;
+  width: 80%;
+  height: 10%;
+  left: 10%;
+  top: 25%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 250%;
+  line-height: 10%;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+
+  opacity: 0.6;
+
+  background: #d9d9d9;
+}
+
+.login {
+  position: absolute;
+  width: 30%;
+  height: 10%;
+  left: 35%;
+  top: 60%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 200%;
+  line-height: 10%;
+  cursor: pointer;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+
+  background: #1e54df;
+}
+
+.new{
+position: relative;
+/* width: 30%; */
+height: 10%;
+top: 50%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 20%;
+text-align: center;
+
+color: #1E54DF;
+
+
+}
